@@ -46,27 +46,27 @@ Consider the following binary string:
 ```
 
 1. Chunk the binary string into bytes:
-   -     <!-- response: -->
-   -     <!-- response: -->
-   -     <!-- response: -->
-   -     <!-- response: -->
-   -     <!-- response: -->
-   -     <!-- response: -->
+   -   <!-- response: -->
+   -   <!-- response: -->
+   -   <!-- response: -->
+   -   <!-- response: -->
+   -   <!-- response: -->
+   -   <!-- response: -->
 
 1. Split the string into individual UTF-8 characters:
-   -     <!-- response: -->
-   -     <!-- response: -->
-   -     <!-- response: -->
+   -   <!-- response: -->
+   -   <!-- response: -->
+   -   <!-- response: -->
 
 1. Unpack the payload from each of the UTF-8 characters:
-   -     <!-- response: -->
-   -     <!-- response: -->
-   -     <!-- response: -->
+   -   <!-- response: -->
+   -   <!-- response: -->
+   -   <!-- response: -->
 
 1. Decode each of the resulting binary values into hexadecimal:
-   -     <!-- response: -->
-   -     <!-- response: -->
-   -     <!-- response: -->
+   -   <!-- response: -->
+   -   <!-- response: -->
+   -   <!-- response: -->
 
 
 
