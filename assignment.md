@@ -5,7 +5,7 @@
 
 ## Questions
 
-### Unicode to UTF-8 [Encoding](encode_utf.md)
+### Unicode to UTF-8 [Encoding](encode_utf8.md)
 1. Convert the following Unicode Characters into binary:
    1. U+0920
       - xxxx xxxx xxxx xxxx  <!-- response: -->
@@ -38,7 +38,7 @@
    1. U+5555
       -   <!-- response: -->
 
-### Unicode to UTF-8 [Decoding](decode_utf.md)
+### Unicode to UTF-8 [Decoding](decode_utf8.md)
 
 Consider the following binary string:
 ```
