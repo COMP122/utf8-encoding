@@ -53,7 +53,7 @@ Consider the following binary string:
    -   <!-- response -->
    -   <!-- response -->
 
-1. Gather together the bytes need for each UTF-8 character:
+1. Gather together the bytes needed for each UTF-8 character:
    -   <!-- response -->
    -   <!-- response -->
    -   <!-- response -->
