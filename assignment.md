@@ -8,35 +8,35 @@
 ### Unicode to UTF-8 [Encoding](encode_utf.md)
 1. Convert the following Unicode Characters into binary:
    1. U+0920
-      - xxxx xxxx xxxx xxxx  <!-- response: -->
+      - xxxx xxxx xxxx xxxx  <!-- response -->
    1. U+0042
-      -   <!-- response: -->
+      -   <!-- response -->
    1. U+5555
-      -   <!-- response: -->
+      -   <!-- response -->
 
-1. Determine the number of bytes needed to encode the following values
+1. Determine the number of bytes needed to encode the following values into UTF-8.
    1. U+0920
-      -   <!-- response: -->
+      -   <!-- response -->
    1. U+0042
-      -   <!-- response: -->
+      -   <!-- response -->
    1. U+5555
-      -   <!-- response: -->
+      -   <!-- response -->
 
 1. Provide the UTF-8 binary encoding for the following values:
    1. U+0920
-      - xxxx xxxx xxxx xxxx  <!-- response: -->
+      - xxxx xxxx xxxx xxxx  <!-- response -->
    1. U+0042
-      -   <!-- response: -->
+      -   <!-- response -->
    1. U+5555
-      -   <!-- response: -->
+      -   <!-- response -->
 
 1. Provide the UTF-8 hex encoding for the following values:
    1. U+0920
-      - xxxx xxxx xxxx xxxx  <!-- response: -->
+      - xxxx xxxx xxxx xxxx  <!-- response -->
    1. U+0042
-      -   <!-- response: -->
+      -   <!-- response -->
    1. U+5555
-      -   <!-- response: -->
+      -   <!-- response -->
 
 ### Unicode to UTF-8 [Decoding](decode_utf.md)
 
@@ -46,27 +46,27 @@ Consider the following binary string:
 ```
 
 1. Chunk the binary string into bytes:
-   -   <!-- response: -->
-   -   <!-- response: -->
-   -   <!-- response: -->
-   -   <!-- response: -->
-   -   <!-- response: -->
-   -   <!-- response: -->
+   -   <!-- response -->
+   -   <!-- response -->
+   -   <!-- response -->
+   -   <!-- response -->
+   -   <!-- response -->
+   -   <!-- response -->
 
-1. Split the string into individual UTF-8 characters:
-   -   <!-- response: -->
-   -   <!-- response: -->
-   -   <!-- response: -->
+1. Gather together the bytes need for each UTF-8 character:
+   -   <!-- response -->
+   -   <!-- response -->
+   -   <!-- response -->
 
 1. Unpack the payload from each of the UTF-8 characters:
-   -   <!-- response: -->
-   -   <!-- response: -->
-   -   <!-- response: -->
+   -   <!-- response -->
+   -   <!-- response -->
+   -   <!-- response -->
 
 1. Decode each of the resulting binary values into hexadecimal:
-   -   <!-- response: -->
-   -   <!-- response: -->
-   -   <!-- response: -->
+   -   <!-- response -->
+   -   <!-- response -->
+   -   <!-- response -->
 
 
 
