@@ -1,0 +1,32 @@
+### Name:                                <!-- response -->
+### GitHub Account:                      <!-- response -->
+      - 0000 1001 0010 0000  <!-- response -->
+      - 0000 0000 0100 0010  <!-- response -->
+      - 0101 0101 0101 0101  <!-- response -->
+      - 3 bytes  <!-- response -->
+      - 1 byte  <!-- response -->
+      - 3 bytes  <!-- response -->
+      - 1110-0000  10-1001 00  10-10 0000   <!-- response -->
+      - 0100 0010  <!-- response -->
+      - 1110-0101 10-0101 01 10-01 0101   <!-- response -->
+      - 1110 0000  1010 0100  1010 0000  <!-- response -->
+      - 0xE0A4A0  <!-- response -->
+      - 0x0042  <!-- response -->
+      - 0xE59595   <!-- response -->
+   - 0101 1101  <!-- response -->
+   - 1110 1001  <!-- response -->
+   - 1010 0011  <!-- response -->
+   - 1011 0001  <!-- response -->
+   - 1000 0101  <!-- response -->
+   - 1101 0001  <!-- response -->
+   - 1011 0010  <!-- response -->
+   - 0101 1101                     <!-- response -->
+   - 1110 1001 1010 0011 1011 0001 <!-- response -->
+   - 1000 0101 (error)             <!-- response -->
+   - 1101 0001 1011 0010           <!-- response -->
+   - 0101 1101  <!-- response -->
+   - 1001  10 0011 11 0001  <!-- response -->
+   - 1 0001 11 0010   <!-- response -->
+   - 0x5D  <!-- response -->
+   - 0x98F1  <!-- response -->
+   - 0x0472  <!-- response -->
